@@ -1,0 +1,24 @@
+¿Para que sirve?
+GitHub sirve para almacenar tu codigo en un repositorio, te permite presentar o compartir el trabajo. Seguir y administrar los cambios en el codigo en el codigo alo largo del tiempo
+
+¿Que es?
+GitHub es una plataforma donde puedes almacenar, compartir y trabajar junto con otros usuarios para escribir codigo. 
+
+¿Como funciona?
+Los repositorios publicos de GitHub se suelen utilizar para compartir software de codigo abierto.
+
+Explicar 5 comandos de git
+git add:
+Se utiliza para agregar cambios realizados en archivos especificos o en todos los archivos modificados al area de preparacion en Git.
+
+git init: 
+Se utiliza para inicializar un nuevo repositorio Git en un directorio vacio o en un directiorio existente que aun no este siendo rastreado por Git.
+
+git commit:
+Se utiliza para guardar de manera permanente los cambios que han sido previamente agregados al area de preparacion en Git.
+
+git status:
+Muestra el estado actual del repositorio en tu maquina local.
+
+git log:
+Se utiliza para mostrar el historial completo de commits realizados en un repositorio Git.
